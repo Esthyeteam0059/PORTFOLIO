@@ -47,7 +47,7 @@ Currently working as an intern at Amazon Web Services (AWS), Rudra Pratap has a 
 - **Mobile**: +234-807-668-0425
 - **Email**: [emmanueloladimeji435@gmail.com](emmanueloladimeji435@gmail.com)
 - **LinkedIn**: [overgearedmonarch](https://www.linkedin.com/in/overgearedmonarch/)
-- **Portfolio**: [Rudrafolio](https://rudra7009.github.io/Rudrafolio/)
+- **Portfolio**: [overgearedmonarch](https://overgearedmonarch.github.io/PORTFOLIO/)
 
 ---
 
