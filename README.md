@@ -7,20 +7,6 @@ Currently working as an intern at Amazon Web Services (AWS), Rudra Pratap has a 
 
 * * 
 
-## Education
-
-### Suditi Global Academy, Etawah
-**Higher Secondary School**  
-*March 2020 - July 2021*
-
----
-
-### GL Bajaj Institute of Technology and Management
-**Bachelor of Technology (BTech) in Computer Science**  
-*Graduated: 2026*
-
----
-
 ## Projects
 
 - **Python Supermarket Management Software**: Developed a comprehensive management software for supermarkets using Python.
